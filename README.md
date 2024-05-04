@@ -5,7 +5,13 @@ Juleisy T. Segarra López
 COMP2315.STRUCTUREDPROGRAMMING    
 Profesor Hacniel Cardona Arroyo                                     
 Fecha 2024/05/05
-El programa tiene como objetivo administrar la membresía de un gimnasio llamado "ONLY FOR ALPHAS GYM", ofreciendo al usuario opciones para adaptar su membresía según sus preferencias. Aquí hay un resumen de sus funcionalidades:
+
+
+
+
+  El programa tiene como objetivo administrar la membresía de un gimnasio llamado "ONLY FOR ALPHAS GYM", ofreciendo al usuario opciones para adaptar su membresía según sus preferencias. Aquí hay un resumen de sus funcionalidades:
+
+
 1. Mensaje de bienvenida: Inicia creando un archivo de bienvenida, "Bienvenida.txt", que contiene un saludo inicial al sistema de aplicación de membresías del gimnasio. Luego, muestra este mensaje en la pantalla.
 2. Validación de edad: Solicita al usuario ingresar su fecha de nacimiento para calcular su edad actual. Si la edad es menor o igual a 17 años, el programa continúa solicitando la fecha de nacimiento hasta que se ingrese una edad válida.
 3. Cálculo de membresía: Permite al usuario ingresar la duración deseada de la membresía en meses y calcula el costo total multiplicando esta duración por una tarifa fija de membresía mensual.
