@@ -1,4 +1,0 @@
-﻿  Proyecto integrador.cpp
-C:\Users\julei\source\repos\Proyecto integrador\Proyecto integrador\Proyecto integrador.cpp(37,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\julei\source\repos\Proyecto integrador\Proyecto integrador\Proyecto integrador.cpp(118,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-  Proyecto integrador.vcxproj -> C:\Users\julei\source\repos\Proyecto integrador\x64\Debug\Proyecto integrador.exe
