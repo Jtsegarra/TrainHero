@@ -1,0 +1,6 @@
+﻿  ConsoleApplication11.cpp
+C:\Users\luisc\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(133,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\luisc\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(133,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\luisc\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(133,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\luisc\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(65,9): warning C4101: 'opcion': unreferenced local variable
+  ConsoleApplication11.vcxproj -> C:\Users\luisc\source\repos\ConsoleApplication11\x64\Debug\ConsoleApplication11.exe
